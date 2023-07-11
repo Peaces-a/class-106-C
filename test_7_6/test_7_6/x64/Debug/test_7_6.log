@@ -1,0 +1,7 @@
+﻿  test.c
+  联系2.c
+D:\code\2023\test_7_6\test_7_6\联系2.c(8,20): warning C4474: printf: 格式字符串中传递的参数太多
+D:\code\2023\test_7_6\test_7_6\联系2.c(8,20): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  正在生成代码...
+联系2.obj : error LNK2005: main 已经在 test.obj 中定义
+D:\code\2023\test_7_6\x64\Debug\test_7_6.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
