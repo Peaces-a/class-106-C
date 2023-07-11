@@ -1,0 +1,4 @@
+﻿  test.c
+D:\code\2023\test_7_3\test_7_3\test.c(131,20): error C2065: “a”: 未声明的标识符
+D:\code\2023\test_7_3\test_7_3\test.c(144,5): error C2084: 函数“int main()”已有主体
+D:\code\2023\test_7_3\test_7_3\test.c(125,5): message : 参见“main”的前一个定义
