@@ -1,0 +1,2 @@
+﻿  play.c
+D:\code\2023\test_7_13\test_7_13\play.c(11,22): warning C4013: “time”未定义；假设外部返回 int

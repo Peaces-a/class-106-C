@@ -1,0 +1,2 @@
+﻿  猜数字.c
+D:\code\2023\Play 猜数字\Play 猜数字\猜数字.c(11,22): warning C4013: “time”未定义；假设外部返回 int
